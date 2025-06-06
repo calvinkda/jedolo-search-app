@@ -1,0 +1,7 @@
+jedolo-web-app/
+│── app.py               # Backend Flask
+│── templates/
+│   └── index.html       # Page HTML principale
+│── static/
+│   └── style.css        # Feuille de style CSS
+└── phones.json          # Votre fichier de données
